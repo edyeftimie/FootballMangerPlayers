@@ -17,7 +17,7 @@
 ### In-App Photos & Instructions
 <div align="center">
   <p> Main menu </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="222" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="400" />
 </div>
 
 <div align="center">
@@ -31,8 +31,8 @@
 </div>
 
 <div align="center">
-  <p> Example of error vor an invalid value </p>
-  <img src="[https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Search%20country%20for%20league.png](https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Add%20player%20error.png)"  width="222" />
+  <p> Example of error for an invalid value </p>
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Search%20country%20for%20league.png"  width="222" />
 </div>
 
 <div align="center">
