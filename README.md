@@ -17,7 +17,7 @@
 ### In-App Photos & Instructions
 <div align="center">
   <p> Main menu </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="400" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="1000" />
 </div>
 
 <div align="center">
