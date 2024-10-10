@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <p> Success! The newly added player is now visible in the table. </p>
+  <p> Success! The newly added player is now visible in the table.  </p>
   <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Added%20player%20in%20database.png"  width="1000" />
 </div>
 
