@@ -27,35 +27,35 @@
 
 <div align="center">
   <p> Select the club for your new player </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Search%20country%20for%20league.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Select%20club.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Example of error for an invalid value </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Search%20country%20for%20league.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Add%20player%20error.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Success! The newly added player is now visible in the table. </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Search%20country%20for%20league.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Added%20player%20in%20database.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Select a player to edit his attributes </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="1000" />
+  <img src="https://github.com/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Select%20player.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Player Menu with all of his attributes </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Player%20Page%20-%20Main%20window.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Select an attribute and write the new value </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Player%20Page%20-%20Edit%20value.png"  width="1000" />
 </div>
 
 <div align="center">
   <p> Succes! Player's attribute is now changed. </p>
-  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Player%20Page%20-%20Updated%20Value.png"  width="1000" />
 </div>
