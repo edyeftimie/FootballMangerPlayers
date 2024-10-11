@@ -42,7 +42,7 @@
 
 <div align="center">
   <p> Select a player to edit his attributes </p>
-  <img src="https://github.com/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Select%20player.png"  width="1000" />
+  <img src="https://github.com/edyeftimie/FootballMangerPlayers/blob/main/Photos/Main%20Menu%20-%20Select%20player.png"  width="1000" />
 </div>
 
 <div align="center">
